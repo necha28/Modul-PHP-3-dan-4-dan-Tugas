@@ -69,7 +69,7 @@ Login
 ![Alt Text](https://github.com/necha28/Modul-PHP-3-dan-4-dan-Tugas/blob/master/login.PNG)
 
 Login Berhasil
-![Alt Text](https://github.com/necha28/Modul-PHP-3-dan-4-dan-Tugas/blob/master/login berhasil.PNG)
+![Alt Text](https://github.com/necha28/Modul-PHP-3-dan-4-dan-Tugas/blob/master/loginberhasil.PNG)
 
 # PHP 4
 
@@ -88,7 +88,7 @@ yang akan ditampilkan.
 
 # Latihan 2
 
-![Alt Text](https://github.com/necha28/Modul-PHP-3-dan-4-dan-Tugas/blob/master/php4.2.PNG)
+![Alt Text](https://github.com/necha28/Modul-PHP-3-dan-4-dan-Tugas/blob/master/php4.2,3.PNG)
 
 Penjelasan:
 Penerapan fungsi untuk menghitung luas lingkaran dengan menerapkan return value.
@@ -96,8 +96,6 @@ Return value tersebut digunakan untuk mengembalikan nilai hasil perhitungan luas
 lingkaran, sehingga output dari pemanggilan fungsi tersebut berupa luas lingkaran.
 
 # Latihan 3
-
-![Alt Text](https://github.com/necha28/Modul-PHP-3-dan-4-dan-Tugas/blob/master/php4.3.PNG)
 
 Penjelasan:
 Penerapan fungsi tanpa parameter dan return value. Kegunaan dari contoh script di atas adalah untuk
@@ -115,8 +113,8 @@ mengubah di fungsi ini saja. Secara otomatis halaman lain akan mengikuti perubah
 # Tugas Praktikum
 
 Input
-![Alt Text](https://github.com/necha28/Modul-PHP-3-dan-4-dan-Tugas/blob/master/praktikum.PNG)
+![Alt Text](https://github.com/necha28/Modul-PHP-3-dan-4-dan-Tugas/blob/master/php4.praktikum.PNG)
 
 Hasil
-![Alt Text](https://github.com/necha28/Modul-PHP-3-dan-4-dan-Tugas/blob/master/hasil.PNG)
+![Alt Text](https://github.com/necha28/Modul-PHP-3-dan-4-dan-Tugas/blob/master/php4.hasil.PNG)
 
