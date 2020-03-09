@@ -69,7 +69,7 @@ Login
 ![Alt Text](https://github.com/necha28/Modul-PHP-3-dan-4-dan-Tugas/blob/master/login.PNG)
 
 Login Berhasil
-![Alt Text](https://github.com/necha28/Modul-PHP-3-dan-4-dan-Tugas/blob/master/loginberhasil.PNG)
+![Alt Text](https://github.com/necha28/Modul-PHP-3-dan-4-dan-Tugas/blob/master/login%20berhasil.PNG)
 
 # PHP 4
 
